@@ -1,5 +1,5 @@
 # Daniel Mataya
 
-**'Digital Creator/Developer/Student'**
+**'Designer/Developer/Student/Master'**
 
-I am an information systems specialist in training with experience in C++ and Java. I am currently studying for a bachelors in managements information systems.
+Hey There!! I'm Currently studying at Malawi University of Business and Applied science and I love UI/UX designing. Currently learning HTTP, JavaScript and React.JS.
